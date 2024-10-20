@@ -9,8 +9,8 @@ jar.name=spark-demo.jar
 maven.jar.name=spark-demo-1.0.jar
 job.name=wc.WordCountMain
 local.master=local[4]
-local.input=input/hhg_Small.txt
-local.output=outputSmall
+local.input=input/hhg.txt
+local.output=output
 local.awslog=awslog
 # Pseudo-Cluster Execution
 hdfs.user.name=satyam
