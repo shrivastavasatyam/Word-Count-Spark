@@ -1,4 +1,4 @@
-# Word Count - Scala
+# Word Count - Spark (Scala)
 
 This project implements a Word Count program using Apache Spark and Scala. The program processes a text dataset and counts the frequency of each word in the input. It also covers various deployment scenarios, including running the Spark job locally, in a pseudo-distributed Hadoop cluster, and on AWS EMR (Elastic MapReduce). Additionally, this version of the Spark WordCount demonstrates how to visualize the lineage of the RDD transformations to gain insights into the computation process. This README.md provides detailed instructions for setting up the required environment, executing the program in different modes, and using AWS for distributed processing.
 
